@@ -30,6 +30,23 @@ namespace ConsoleApp1
 
             Console.WriteLine("Human name = {0}, age = {1}", h1.Name, h1.Age);
             Console.WriteLine("Human name = {0}, age = {1}", h2.Name, h2.Age);
+
+            //string tekst1 = "Hello world!";
+            //int arv1 = 12;
+
+            //string tekst2 = tekst1;
+            //int arv2 = arv1;
+
+            //tekst2 = "Muutsin!";
+            //arv2 = 999;
+            //char[] a = new char[4];
+            //a[0] = 't';
+            //a[1] = 'e';
+            //a[2] = 'r';
+            //a[3] = 'e';
+
+            //Console.WriteLine("Arv1={0}, Arv2={1}", arv1, arv2);
+            //Console.WriteLine("tekst1={0}, tekst2={1}", tekst1, tekst2);
         }
     }
 
